@@ -1,3 +1,7 @@
+# [1.1.0] - 2026-05-26
+
+- PATCH_MULTI message
+
 # [1.0.9] - 2026-05-03
 
 - update deps
